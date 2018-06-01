@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.cabecera {
+  width: 100%;
+  background: #FFFFFF;
+}
+
+.logo {
+  width: 155px;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.menu {
+  text-decoration: none;
+  list-style: none;
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 13px;
+}
+
+.elemento {
+  display: inline-block;
+  text-align: center;
+  padding: 20px;
+}
+
+.enlace {
+  font-family: 'Rubik', sans-serif;
+  text-decoration: none;
+  color: #4a4a4a;
+  text-align: center;
+  font-size: 16px;
+}
+
+.cuerpo {
+  background: #3CDBC0;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 80px;
+  padding-bottom: 200px;
+}
+
+.titulo {
+  font-family: 'Rubik', sans-serif;
+  color: #FFFFFF;
+  font-size: 30px;
+  text-align: center;
+}
