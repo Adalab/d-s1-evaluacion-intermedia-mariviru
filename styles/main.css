@@ -4,6 +4,12 @@
   padding: 0;
 }
 
+body {
+  font-family: 'Rubik', sans-serif;
+  font-size: 16px;
+  color: #4a4a4a;
+}
+
 .cabecera {
   width: 100%;
   background: #FFFFFF;
@@ -31,15 +37,13 @@
 }
 
 .enlace {
-  font-family: 'Rubik', sans-serif;
+  color: inherit;
   text-decoration: none;
-  color: #4a4a4a;
   text-align: center;
-  font-size: 16px;
 }
 
 .cuerpo {
-  background: #3CDBC0;
+  background-color: #3CDBC0;
   padding-left: 50px;
   padding-right: 50px;
   padding-top: 80px;
@@ -47,7 +51,6 @@
 }
 
 .titulo {
-  font-family: 'Rubik', sans-serif;
   color: #FFFFFF;
   font-size: 30px;
   text-align: center;
