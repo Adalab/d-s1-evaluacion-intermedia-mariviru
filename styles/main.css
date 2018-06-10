@@ -77,8 +77,8 @@ body {
 .titulo {
   color: #FFFFFF;
   font-size: 30px;
-  flex-basis: 70%;
   text-align: center;
+  max-width: 200px;
 }
 
 @media all and (min-width: 768px) {
